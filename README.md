@@ -14,7 +14,7 @@ After your deploy this image on a model such as https://huggingface.co/neuralmag
 ```python
 from openai import OpenAI
 client = OpenAI(
-    base_url="https:///<hf instance details>.endpoints.huggingface.cloud/v1",
+    base_url="https://<hf instance details>.endpoints.huggingface.cloud/v1",
     api_key="<hf_token>",
 )
 
