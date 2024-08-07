@@ -1,4 +1,4 @@
-# hf-vllm-docker
+# vllm-openai-hf
  Docker image to serve a LLM on vLLM using Huggingface inference endpoints.
  Docker image is https://hub.docker.com/r/tsunkaraneni/vllm-openai-hf
 
